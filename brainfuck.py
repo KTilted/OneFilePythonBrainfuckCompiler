@@ -3,6 +3,7 @@
 
 lang = None
 
+
 while lang != "Russian" or "English":
 	lang = input("Select language: Russian or English: ")
 	if lang == "Russian":
